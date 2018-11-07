@@ -1,0 +1,14 @@
+.background1 {
+    background-image: url(/img/A-Red-Train-Background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.background {
+    background-color: #F8EACF;
+}
+
+form {
+    max-width: 250px;
+}
